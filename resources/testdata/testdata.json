@@ -1,0 +1,9 @@
+{
+    "LANGUAGE_DROPDOWN": [
+        {"VALUE": "Angular 2 for TypeScript"},
+        {"VALUE": "Angular 2 for JavaScript"},
+        {"VALUE": "Angular 2 for Dart"}
+    ],
+
+    "Languages": ["TypeScript", "JavaScript", "Dart"]
+}

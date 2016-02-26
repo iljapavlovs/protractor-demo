@@ -1,0 +1,6 @@
+.idea
+allure*
+node_modules
+reports/*
+npm-debug.log
+log4js.json
