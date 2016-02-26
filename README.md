@@ -1,2 +1,1 @@
 # protractor demo
-gi
